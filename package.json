@@ -1,0 +1,12 @@
+{
+  "name": "github-fetcher",
+  "version": "1.0.0",
+  "description": "A tool to fetch all github repositories depending on a moodle assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josef Fürlinger",
+  "license": "MIT"
+}
